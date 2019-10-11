@@ -1,6 +1,6 @@
 {
   "name": "egg-aliyun-eci",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "egg-aliyun-eci",
   "eggPlugin": {
     "name": "aliyunEci"
