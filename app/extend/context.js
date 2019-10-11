@@ -8,7 +8,6 @@ module.exports = {
    * @see App#oss
    */
   get eci() {
-    console.log(this.app, this.app.aliyunEci);
     return this.app.aliyunEci;
   },
 };
